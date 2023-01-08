@@ -1,0 +1,5 @@
+  pulic void logowanie() {
+      System.out.println("Podaj nazwę użytkownika");
+      System.out.println("Podaj poprawne hasło proszę");
+      System.out.println("Kliknij na przycisk zaloguj");
+   }
