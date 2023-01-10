@@ -15,3 +15,7 @@
       System.out.println("Podaj poprawne hasło proszę");
       System.out.println("Kliknij na przycisk zaloguj");
    }
+
+  pulic void przypomnijHaslo() {
+      System.out.println("Przypomnij hasło");
+  }
